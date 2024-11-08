@@ -1,2 +1,2 @@
-# opentd
+# OpenTD
 Open Tower Defense
